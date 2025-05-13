@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ask_anything" label="Ask Anything" language="en" table="x_1021112_ai_chat_gemini_ai_chat_bot">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ask_anything</element>
+            <help/>
+            <hint/>
+            <label>Ask Anything</label>
+            <language>en</language>
+            <name>x_1021112_ai_chat_gemini_ai_chat_bot</name>
+            <plural>Ask Anythings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-13 13:59:07</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ask Anything</sys_name>
+            <sys_package display_value="AI Chat Gemini" source="x_1021112_ai_chat">116103648369221087299d60ceaad3ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AI Chat Gemini">116103648369221087299d60ceaad3ba</sys_scope>
+            <sys_update_name>sys_documentation_x_1021112_ai_chat_gemini_ai_chat_bot_ask_anything_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-13 13:59:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{&#13;
+  "contents": [&#13;
+    {&#13;
+      "parts": [&#13;
+        {&#13;
+          "text": "${que}"&#13;
+        }&#13;
+      ]&#13;
+    }&#13;
+  ]&#13;
+}&#13;
+</content>
+        <function_name>Request Answer</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Gemini AI Chat [ Request Answer ]</qualified_name>
+        <rest_endpoint>https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBv9DOq49UqvN8SmTONRMkdzn60WpqQm8I</rest_endpoint>
+        <rest_message display_value="Gemini AI Chat">52d10fa48369221087299d60ceaad3da</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 13:48:53</sys_created_on>
+        <sys_id>520287648369221087299d60ceaad347</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Request Answer</sys_name>
+        <sys_package display_value="AI Chat Gemini" source="x_1021112_ai_chat">116103648369221087299d60ceaad3ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Chat Gemini">116103648369221087299d60ceaad3ba</sys_scope>
+        <sys_update_name>sys_rest_message_fn_520287648369221087299d60ceaad347</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 13:57:18</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

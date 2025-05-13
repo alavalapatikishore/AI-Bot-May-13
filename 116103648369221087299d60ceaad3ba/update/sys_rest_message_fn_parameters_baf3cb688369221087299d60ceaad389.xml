@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>que</name>
+        <rest_message_function display_value="Request Answer">520287648369221087299d60ceaad347</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 13:57:24</sys_created_on>
+        <sys_id>baf3cb688369221087299d60ceaad389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>que</sys_name>
+        <sys_package display_value="AI Chat Gemini" source="x_1021112_ai_chat">116103648369221087299d60ceaad3ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AI Chat Gemini">116103648369221087299d60ceaad3ba</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_baf3cb688369221087299d60ceaad389</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 13:57:24</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </sys_rest_message_fn_parameters>
+</record_update>

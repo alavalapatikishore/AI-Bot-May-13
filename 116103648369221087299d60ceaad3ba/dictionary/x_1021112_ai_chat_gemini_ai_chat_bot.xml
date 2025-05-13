@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="70148f688369221087299d60ceaad3db" label="Gemini AI Chat Bot" max_length="40" name="x_1021112_ai_chat_gemini_ai_chat_bot" type="collection">
+        <element label="Response" max_length="10000" name="response" type="string"/>
+        <element label="Ask Anything" max_length="10000" name="ask_anything" type="string"/>
+    </element>
+</database>
